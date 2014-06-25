@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E2691FD-8B6B-486A-A056-48D7C2C73ECB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Shutterbug</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>82DDCC4B-DB88-4E49-80B9-C2A3D7C589AE</key>
+		<string>https://github.com/razvizion/Shutterbug---Stanford-Course.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Shutterbug.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>82DDCC4B-DB88-4E49-80B9-C2A3D7C589AE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/razvizion/Shutterbug---Stanford-Course.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>82DDCC4B-DB88-4E49-80B9-C2A3D7C589AE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>82DDCC4B-DB88-4E49-80B9-C2A3D7C589AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Shutterbug</string>
+		</dict>
+	</array>
+</dict>
+</plist>
